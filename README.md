@@ -1,7 +1,7 @@
 # simpleconsolerpg2
 A time boxed effort to explore world building.
 
-##time: 3 or 4 coding sessions
+time: 3 or 4 coding sessions
 ##status: in progress
 
 ##requirements:
