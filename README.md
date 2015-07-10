@@ -1,7 +1,8 @@
 # simpleconsolerpg2
 A time boxed effort to explore world building.
 
-## status; in progress
+##time: 3 or 4 coding sessions
+##status: in progress
 
 ##requirements:
 - load world from text file
@@ -10,6 +11,6 @@ A time boxed effort to explore world building.
 - refine world map
 
 
-##time: 3 or 4 coding sessions
+
 
 
