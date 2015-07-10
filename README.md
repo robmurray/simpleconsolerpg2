@@ -1,6 +1,8 @@
 # simpleconsolerpg2
 A time boxed effort to explore world building.
 
+## status; in progress
+
 ##requirements:
 - load world from text file
 - begin to flush out the object model
