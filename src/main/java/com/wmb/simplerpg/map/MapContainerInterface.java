@@ -1,4 +1,4 @@
-package com.wmb.simplerpg;
+package com.wmb.simplerpg.map;
 
 /**
  * Created by rob on 7/9/15.

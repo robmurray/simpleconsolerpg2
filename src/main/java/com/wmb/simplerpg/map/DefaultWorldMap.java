@@ -1,9 +1,9 @@
-package com.wmb.simplerpg;
+package com.wmb.simplerpg.map;
 
 /**
  * Created by rob on 7/9/15.
  */
-public class DefaultWorldMap implements MapContainerInterface{
+public class DefaultWorldMap implements MapContainerInterface {
 
     private int maxX;
 

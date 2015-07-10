@@ -3,6 +3,7 @@ package com.wmb.simplerpg;
 import com.wmb.simplerpg.gameobject.GameObjectFactory;
 import com.wmb.simplerpg.gameobject.GameObjectInterface;
 import com.wmb.simplerpg.gameobject.InvalidGameObjectTypeException;
+import com.wmb.simplerpg.map.MapContainerInterface;
 import com.wmb.simplerpg.tile.InvalidTileTypeException;
 import com.wmb.simplerpg.tile.Tile;
 import com.wmb.simplerpg.tile.TileFactory;
