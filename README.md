@@ -1,5 +1,5 @@
 # simpleconsolerpg2
-A time boexed effort to explore world building.
+A time boxed effort to explore world building.
 
 ##requirements:
 - load world from text file
